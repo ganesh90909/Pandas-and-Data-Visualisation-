@@ -1,5 +1,5 @@
 Dimensionality reduction refers to the reduction of data from n-dimension to k-dimension where k<n. A dataset with large number of input variables (dimensions) 
-make the predicting model very complex and might not fit the model efficiently which is commonly referred to as **curse of dimensionality**.Sometimes in a dataset
+make the predicting model very complex and might not fit the model efficiently which is commonly referred to as curse of dimensionality.Sometimes in a dataset
 there might be variables which are highly correlated and those correlated variables are not useful in prediction.So, we can use dimension reduction technique to 
 remove the correlated features and reduce the number of features used in the prediction model. In doing so, the meaningful properties of the variables are not 
 convinced. 
