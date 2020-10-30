@@ -5,8 +5,8 @@ and relationships of the variables of data is retained with less number of dimen
 
 Dimensionality reduction is generally used for data compression and data visualisation.
 
-Feature scaling need to be performed before dimension reduction to make all features to a comparable range of values because different feature values have different
-scale.
+Feature scaling need to be performed before dimension reduction to make all features to a comparable range of values because different feature values have 
+different scale.
 
 Principal Component Analysis is one of the popular dimensionality reduction technique.
 Also there are other techniques like Linear Discriminant Analysis (LDA), t-distributed Stochasic Neighbor Embedding (t-SNE) etc.
