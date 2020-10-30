@@ -1,7 +1,9 @@
-Dimensionality reduction refers to the reduction of data from n-dimension to k-dimension where n<k. A dataset with large number of input variables (dimensions) 
-make the predicting model very complex and might not fit the model efficiently which is commonly referred to as curse of dimensionality. Dimension reduction 
-techniques are used to reduce the dimensions of the input data and usually we choose k in such a way that 99% of variance is retained. That means the structure 
-and relationships of the variables of data is retained with less number of dimension than before. 
+Dimensionality reduction refers to the reduction of data from n-dimension to k-dimension where k<n. A dataset with large number of input variables (dimensions) 
+make the predicting model very complex and might not fit the model efficiently which is commonly referred to as **curse of dimensionality**.Sometimes in a dataset
+there might be variables which are highly correlated and those correlated variables are not useful in prediction.So, we can use dimension reduction technique to 
+remove the correlated features and reduce the number of features used in the prediction model. Dimension reduction techniques are used to reduce the dimensions
+(number of features) of the input data and usually we choose k in such a way that 99% of variance is retained. That means the structure and relationships of the
+variables of data is retained with less number of dimension than before.
 
 Dimensionality reduction is generally used for data compression and data visualisation.
 
